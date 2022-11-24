@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Dimasariza/RentCars/static/css/main.44f8b8b5.css",
+    "main.js": "/Dimasariza/RentCars/static/js/main.b3a39abc.js",
+    "static/js/787.4b5b5b43.chunk.js": "/Dimasariza/RentCars/static/js/787.4b5b5b43.chunk.js",
+    "static/media/Car3.png": "/Dimasariza/RentCars/static/media/Car3.20feab802494e0130ae8.png",
+    "static/media/Car6.png": "/Dimasariza/RentCars/static/media/Car6.4b1781a804f6ecbe4aa6.png",
+    "static/media/Reborn.png": "/Dimasariza/RentCars/static/media/Reborn.48771d2e720315e06a1e.png",
+    "static/media/Car7.png": "/Dimasariza/RentCars/static/media/Car7.6f684fac703a95e9bbf9.png",
+    "static/media/Car5.png": "/Dimasariza/RentCars/static/media/Car5.15cd5642a9abc1b25d78.png",
+    "static/media/Car2.png": "/Dimasariza/RentCars/static/media/Car2.46c8106ddc592dc5f2a5.png",
+    "static/media/service-icon.svg": "/Dimasariza/RentCars/static/media/service-icon.c62ea28cbc14463740bec2532ff480b8.svg",
+    "static/media/clock-icon.svg": "/Dimasariza/RentCars/static/media/clock-icon.d8ee7c51da69c1c44b6cd15c6f014218.svg",
+    "static/media/rating-icon.svg": "/Dimasariza/RentCars/static/media/rating-icon.89565249f1378c3b41203d9251070aad.svg",
+    "static/media/Car-Icon.svg": "/Dimasariza/RentCars/static/media/Car-Icon.be6f576bf6c193d0a609ea52ccded804.svg",
+    "static/media/Car-Icon2.svg": "/Dimasariza/RentCars/static/media/Car-Icon2.8d181bb2fff52ff9b30de6aa3d5dc897.svg",
+    "index.html": "/Dimasariza/RentCars/index.html",
+    "main.44f8b8b5.css.map": "/Dimasariza/RentCars/static/css/main.44f8b8b5.css.map",
+    "main.b3a39abc.js.map": "/Dimasariza/RentCars/static/js/main.b3a39abc.js.map",
+    "787.4b5b5b43.chunk.js.map": "/Dimasariza/RentCars/static/js/787.4b5b5b43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.b3a39abc.js"
+  ]
+}
