@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VidaTrans/static/css/main.44f8b8b5.css",
-    "main.js": "/VidaTrans/static/js/main.10f17f79.js",
+    "main.js": "/VidaTrans/static/js/main.a469371c.js",
     "static/js/787.4b5b5b43.chunk.js": "/VidaTrans/static/js/787.4b5b5b43.chunk.js",
     "static/media/Car3.png": "/VidaTrans/static/media/Car3.20feab802494e0130ae8.png",
     "static/media/Car6.png": "/VidaTrans/static/media/Car6.4b1781a804f6ecbe4aa6.png",
@@ -17,11 +17,11 @@
     "static/media/Car-Icon2.svg": "/VidaTrans/static/media/Car-Icon2.8d181bb2fff52ff9b30de6aa3d5dc897.svg",
     "index.html": "/VidaTrans/index.html",
     "main.44f8b8b5.css.map": "/VidaTrans/static/css/main.44f8b8b5.css.map",
-    "main.10f17f79.js.map": "/VidaTrans/static/js/main.10f17f79.js.map",
+    "main.a469371c.js.map": "/VidaTrans/static/js/main.a469371c.js.map",
     "787.4b5b5b43.chunk.js.map": "/VidaTrans/static/js/787.4b5b5b43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.10f17f79.js"
+    "static/js/main.a469371c.js"
   ]
 }
