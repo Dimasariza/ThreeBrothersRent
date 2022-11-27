@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<title>Rent Icon</title>
+	<defs>
+		<image  width="82" height="43" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFIAAAArCAMAAADc3y+gAAAAAXNSR0IB2cksfwAAAPlQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////69QrlAAAAFN0Uk5TADhxosbf9f/jkEoiieaqELAm4R0q6loUf4QzpYYSUDCIY2Cjr43Un5KXDqCaX56PL6dPqw+0ub3CyM3R2Z1kG7hJPx7yLeRhCodlCSCZ8fTclBxouIGSAAABsklEQVR4nK3WZ1vCMBAA4FOMsYoE924VkbqgtVZFcYt7+/9/jC0CbS55+thw9zFp3l52AJIYGi6MsFFuHmPWeIqDieLkAFg/Sn1QlCm8OKyuODVNJXI+0xFn5+hEPh+LC4Q5cr4YkyVKkS9F4jKp2CFXaMlVgDVNMbNsB8CxLZafXAfYUMFKsgMqudEiwCYuq4r0rhLVnOQWQA0VuYDCzUduA+AcsQiQL88d2JULmFBJoRlP1xYg7D0NuY+zrKsiQB03Y063xlH/1kAk04kAqGGqK2oPCoj09KQnt/JTVQ4mDxAZ6MlA+kheEy4iDxHp60k5Ffm/8u84LyNSL6KPQqlKIPLIhMyq4/z4fx33M7IMEXliMj3ZY9k0WUTZM35qtNTTwyOPSRRnRhuSJaMZKrunhUkWqqLajPXy9NU9fm56uLlBCGHgampGFXLgI7imkrwq9T3Me1FcaEjOUnNUz32dXerICPWCaAL8wDO4dK/05ABxDeTkDTnZAnLyNiZJnui9KHaWCeXDrfG38u7aZGLv6Q/3DzRg+zHZIU/PBGDz5VU6Gd7eP8yxz6/md+UnwX4BPgNjhcj789wAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<rect width="100" height="100" id="Layer 1" style="fill: #3358e7"/>
+	<use id="Shape 1" href="#img1" x="8" y="28"/>
+</svg>
