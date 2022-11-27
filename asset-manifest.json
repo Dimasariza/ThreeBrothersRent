@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.44f8b8b5.css",
-    "main.js": "/home/static/js/main.eb379749.js",
-    "static/js/787.4b5b5b43.chunk.js": "/home/static/js/787.4b5b5b43.chunk.js",
-    "static/media/Car3.png": "/home/static/media/Car3.20feab802494e0130ae8.png",
-    "static/media/Car6.png": "/home/static/media/Car6.4b1781a804f6ecbe4aa6.png",
-    "static/media/Reborn.png": "/home/static/media/Reborn.48771d2e720315e06a1e.png",
-    "static/media/Car7.png": "/home/static/media/Car7.6f684fac703a95e9bbf9.png",
-    "static/media/Car5.png": "/home/static/media/Car5.15cd5642a9abc1b25d78.png",
-    "static/media/Car2.png": "/home/static/media/Car2.46c8106ddc592dc5f2a5.png",
-    "static/media/testimoni1.jpg": "/home/static/media/testimoni1.324f39e52bd507a1f321.jpg",
-    "static/media/vidaslogo.svg": "/home/static/media/vidaslogo.4c41838461e13f6b7e9dee14c907d640.svg",
-    "static/media/service-icon.svg": "/home/static/media/service-icon.c62ea28cbc14463740bec2532ff480b8.svg",
-    "static/media/clock-icon.svg": "/home/static/media/clock-icon.d8ee7c51da69c1c44b6cd15c6f014218.svg",
-    "static/media/rating-icon.svg": "/home/static/media/rating-icon.89565249f1378c3b41203d9251070aad.svg",
-    "static/media/Car-Icon2.svg": "/home/static/media/Car-Icon2.8d181bb2fff52ff9b30de6aa3d5dc897.svg",
-    "index.html": "/home/index.html",
-    "main.44f8b8b5.css.map": "/home/static/css/main.44f8b8b5.css.map",
-    "main.eb379749.js.map": "/home/static/js/main.eb379749.js.map",
-    "787.4b5b5b43.chunk.js.map": "/home/static/js/787.4b5b5b43.chunk.js.map"
+    "main.css": "/VidaTrans/static/css/main.44f8b8b5.css",
+    "main.js": "/VidaTrans/static/js/main.10f17f79.js",
+    "static/js/787.4b5b5b43.chunk.js": "/VidaTrans/static/js/787.4b5b5b43.chunk.js",
+    "static/media/Car3.png": "/VidaTrans/static/media/Car3.20feab802494e0130ae8.png",
+    "static/media/Car6.png": "/VidaTrans/static/media/Car6.4b1781a804f6ecbe4aa6.png",
+    "static/media/Reborn.png": "/VidaTrans/static/media/Reborn.48771d2e720315e06a1e.png",
+    "static/media/Car7.png": "/VidaTrans/static/media/Car7.6f684fac703a95e9bbf9.png",
+    "static/media/Car5.png": "/VidaTrans/static/media/Car5.15cd5642a9abc1b25d78.png",
+    "static/media/Car2.png": "/VidaTrans/static/media/Car2.46c8106ddc592dc5f2a5.png",
+    "static/media/testimoni1.jpg": "/VidaTrans/static/media/testimoni1.324f39e52bd507a1f321.jpg",
+    "static/media/vidaslogo.svg": "/VidaTrans/static/media/vidaslogo.4c41838461e13f6b7e9dee14c907d640.svg",
+    "static/media/service-icon.svg": "/VidaTrans/static/media/service-icon.c62ea28cbc14463740bec2532ff480b8.svg",
+    "static/media/clock-icon.svg": "/VidaTrans/static/media/clock-icon.d8ee7c51da69c1c44b6cd15c6f014218.svg",
+    "static/media/rating-icon.svg": "/VidaTrans/static/media/rating-icon.89565249f1378c3b41203d9251070aad.svg",
+    "static/media/Car-Icon2.svg": "/VidaTrans/static/media/Car-Icon2.8d181bb2fff52ff9b30de6aa3d5dc897.svg",
+    "index.html": "/VidaTrans/index.html",
+    "main.44f8b8b5.css.map": "/VidaTrans/static/css/main.44f8b8b5.css.map",
+    "main.10f17f79.js.map": "/VidaTrans/static/js/main.10f17f79.js.map",
+    "787.4b5b5b43.chunk.js.map": "/VidaTrans/static/js/787.4b5b5b43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.eb379749.js"
+    "static/js/main.10f17f79.js"
   ]
 }
