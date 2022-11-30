@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VidaTrans/static/css/main.e06effc1.css",
-    "main.js": "/VidaTrans/static/js/main.779de21b.js",
+    "main.js": "/VidaTrans/static/js/main.8e5c4915.js",
     "static/js/787.4b5b5b43.chunk.js": "/VidaTrans/static/js/787.4b5b5b43.chunk.js",
     "static/media/Car3.png": "/VidaTrans/static/media/Car3.20feab802494e0130ae8.png",
     "static/media/Car6.png": "/VidaTrans/static/media/Car6.4b1781a804f6ecbe4aa6.png",
@@ -55,11 +55,11 @@
     "static/media/wrench-icon.svg": "/VidaTrans/static/media/wrench-icon.25c97ad9e6de6863d2e6.svg",
     "index.html": "/VidaTrans/index.html",
     "main.e06effc1.css.map": "/VidaTrans/static/css/main.e06effc1.css.map",
-    "main.779de21b.js.map": "/VidaTrans/static/js/main.779de21b.js.map",
+    "main.8e5c4915.js.map": "/VidaTrans/static/js/main.8e5c4915.js.map",
     "787.4b5b5b43.chunk.js.map": "/VidaTrans/static/js/787.4b5b5b43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e06effc1.css",
-    "static/js/main.779de21b.js"
+    "static/js/main.8e5c4915.js"
   ]
 }
